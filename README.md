@@ -1,3 +1,4 @@
+### ABOUT ME :
 - 👋 Hi, I’m Animesh Jain 
 - 👀 I’m interested in coding in general 
 - 🌱 I’m currently learning react
