@@ -1,11 +1,11 @@
 ### ABOUT ME :
-- 👋 Hi, I’m Animesh Jain 
-- 👀 I’m interested in coding in general 
+- 👋 Hi, I’m <b>Animesh Jain</b> 
+- 👀 I’m interested in <b>coding</b> in general 
 - 🌱 I’m currently learning web3?
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on twitter at @animsjn
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm in tier 69 college
+- ⚡ Fun fact: I'm in tier <b>69</b> college
 
 <div id="header" align="center"><img src="https://media.giphy.com/media/h2LCfvk3XBlQxKyKWY/giphy.gif?cid=ecf05e473g7vtc75w3z9lw8m0pu2zqfbnk6srrupmjz3i4cl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
