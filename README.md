@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning next.js?
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on twitter at @animsjn
-- 😄 Pronouns: He
 - ⚡ Fun fact: I'm in tier <b>69</b> college
 
 <div id="header" align="center"><img src="https://media.giphy.com/media/h2LCfvk3XBlQxKyKWY/giphy.gif?cid=ecf05e473g7vtc75w3z9lw8m0pu2zqfbnk6srrupmjz3i4cl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
