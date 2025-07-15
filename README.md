@@ -1,6 +1,6 @@
 ### ABOUT ME :
 - 👋 Hi, I’m <b>Animesh Jain</b> 
-- 👀 I’m interested in <b>coding</b> in general 
+- 👀 I’m interested to see a <b>coder</b> in a <b>coder</b>.
 - 🌱 I’m currently learning next.js?
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on twitter at @animsjn
