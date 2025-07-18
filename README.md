@@ -62,7 +62,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### My Stats:
 <div id= "badges" align="center">
 <a><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mr-animesh&theme=youtube-dark&card_height=180&ring=EB5454&border=EBE6E6&sideLabels=EB5454&dates=EB5454&currStreakNum=E8EBA2&sideNums=E8EBA2" alt="GitHub Streak" /></a>
 </a>
