@@ -1,7 +1,7 @@
-### ABOUT ME :
-- 👋 Hi, I’m <b>Animesh Jain</b> 
-- 🌱 I’m currently learning next.js?
-- ⚡ Fun fact: I'm in tier <b>69</b> college
+### ABOUT ME:
+-  Hi, I’m <b>Animesh Jain</b> 
+-  I’m currently learning next.js?
+-  Fun fact: I'm in tier <b>69</b> college
 
 <div id="header" align="center"><img src="https://media.giphy.com/media/h2LCfvk3XBlQxKyKWY/giphy.gif?cid=ecf05e473g7vtc75w3z9lw8m0pu2zqfbnk6srrupmjz3i4cl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
@@ -29,9 +29,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -59,6 +57,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mr-animesh&theme=youtube-dark)](https://git.io/streak-stats)
+### My Stats:
+<div id= "badges" align="center">
+<a><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mr-animesh&theme=youtube-dark&card_height=180&ring=EB5454&border=EBE6E6&sideLabels=EB5454&dates=EB5454&currStreakNum=E8EBA2&sideNums=E8EBA2" alt="GitHub Streak" /></a>
+</a>
+</div>
+
 
