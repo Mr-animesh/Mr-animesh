@@ -1,9 +1,15 @@
-### ABOUT ME:
--  Hi, I’m <b>Animesh Jain</b> 
--  I’m currently learning next.js?
-
-<div id="header" align="center"><img src="https://media.giphy.com/media/h2LCfvk3XBlQxKyKWY/giphy.gif?cid=ecf05e473g7vtc75w3z9lw8m0pu2zqfbnk6srrupmjz3i4cl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-</div>
+<table align="center" border="0">
+  <tr> 
+    <td >
+    <a>Hi, I’m</a> 
+  <b><u>Animesh Jain.</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+     <p>I’m currently learning Next.js</p>
+   </td>
+   <td>
+    <img  src="https://media.giphy.com/media/h2LCfvk3XBlQxKyKWY/giphy.gif?cid=ecf05e473g7vtc75w3z9lw8m0pu2zqfbnk6srrupmjz3i4cl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300"/>
+   </td>
+  </tr>
+  </table>
 <!---
 Mr-animesh/Mr-animesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
