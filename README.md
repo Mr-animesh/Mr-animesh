@@ -1,34 +1,9 @@
-<table align="center" border="0">
-  <tr> 
-    <td >
-    <a>Hi, I’m</a> 
-  <b><u>Animesh Jain.</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
-     <p>I’m currently learning Next.js</p>
-   </td>
-   <td>
-    <img  src="https://media.giphy.com/media/h2LCfvk3XBlQxKyKWY/giphy.gif?cid=ecf05e473g7vtc75w3z9lw8m0pu2zqfbnk6srrupmjz3i4cl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300"/>
-   </td>
-  </tr>
-  </table>
+### HI, This is Animesh Jain from INDIA.
+##### I love to have way around things through CODE.
 <!---
 Mr-animesh/Mr-animesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-animesh&style=flat-square&color=red" alt=""/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/animesh-jain936/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?hl=en_GB#inbox">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://x.com/animsjn">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <h1 id="badges" align="center">
   BEEN THERE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
